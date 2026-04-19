@@ -88,6 +88,15 @@ Hearing aid connection is critical. The inability to connect to the companion ap
 **Recommendation:** An A/B test proposal has been designed to evaluate the effectiveness of a Connection Assistant for Android B-Series users. This will establish whether the issue is user error or a fundamental firmware incompatibility, allowing the product and engineering teams to take targeted action. The full proposal is available in the repository. 
 
 ---
+## Dashboard
+
+### Onboarding Overview
+![Onboarding Overview](./Dashboard/01_onboarding_overview.png)
+
+### Friction Analysis
+![Friction Analysis](./Dashboard/02_friction_analysis.png)
+
+---
 
 ## Next Steps & Limitations
 
